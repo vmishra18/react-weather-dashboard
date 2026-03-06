@@ -2,6 +2,8 @@
 
 A calm, fast React dashboard for current conditions and six-day forecasts.
 
+<img width="1000" height="605" alt="Screenshot 2026-03-06 at 1 26 19 PM" src="https://github.com/user-attachments/assets/3ced9a3e-5233-489a-8221-4ff298184ad9" />
+
 ## Highlights
 
 - Refreshed UI with a bold hero, clean cards, and calm color palette
